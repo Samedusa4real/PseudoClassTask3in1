@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.why-ca-part{
+    position: relative;
+    top: 180px;
+    left: 100px;
+}
+
+h3{
+    font-family: 'Unbounded', cursive;
+    position: relative;
+    right: 70px;
+    bottom: 80px;
+    color: #4a4a4a;
+    font-size: 25px;
+}
+
+span{
+    position: relative;
+    bottom: 25px;
+    left: 70px;
+    font-weight: lighter;
+    color: #7b7b7b;
+}
+
+.text-part{
+    width: 500px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #4a4a4a;
+}
+
+.header::after{
+    content: url(https://code.edu.az/wp-content/uploads/2021/07/sep-line.png);
+    position: relative;
+    bottom: 35px;
+}

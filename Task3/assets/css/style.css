@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.total-part{
+    display: flex;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+img{
+    height: 165px;
+}
+
+p{
+    width: 270px;
+}
+
+.text-part{
+    position: relative;
+    left: 40px;
+
+}
+
+span{
+    position: relative;
+    top: 15px;
+}
+
+a:link{
+    color: #4a4a4a;
+    text-decoration: none;
+    font-weight: bolder;
+}
